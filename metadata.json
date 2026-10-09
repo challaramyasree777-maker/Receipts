@@ -1,0 +1,6 @@
+{
+  "name": "Receipts",
+  "description": "Local-first WhatsApp catch-up ledger with source message receipts and revision tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
